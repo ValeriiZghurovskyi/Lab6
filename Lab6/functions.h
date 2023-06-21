@@ -72,6 +72,7 @@ void workWithList(List<T>& list) {
 
 		case 8:
 			cout << "Have a nice day!";
+			break;
 		default:
 			cout << "Invalid choise! Try again" << endl;
 			break;

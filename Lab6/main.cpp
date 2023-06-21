@@ -6,20 +6,6 @@ using namespace std;
 
 int main() {
 
-	//List<int> list;
-	//list.push_back(5);
-	//list.push_back(65);
-	//list.insert(666, 2);
-	//list.push_back(10);
-	//list.push_back(22);
-	//list.push_back(23);
-	//list.push_back(29);
-
-	//List<int>::Iterator it = list.begin();
-
-//	for (int i = 0; i < list.GetSize(); i++, ++it) {
-		//cout << it.getValue() << endl;
-	//}
 
 	int choise = -1;
 	cout << "1. Create list with int data type" << endl;
